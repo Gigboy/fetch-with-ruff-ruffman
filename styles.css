@@ -1,0 +1,27 @@
+.animated-border {
+	width: 1100px;
+	height: 370%;
+	background: #fff341;
+	box-shadow: 0 4px 40px -16px rgba(0, 0, 0, 0.2);
+	position: relative;
+	left: 20%;
+	top: 20%;
+}
+
+.animated-border .card {
+	width: 50%;
+	height: 90%;
+	background: #fff;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.pos_cen {
+	position: absolute;
+	width: 70%;
+	left: 12%;
+	top: 9%;
+}
+
